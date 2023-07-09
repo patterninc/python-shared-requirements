@@ -8,3 +8,4 @@ streamlit-toggle-switch
 streamlit-lottie
 streamlit-authenticator~=0.2.1
 markdownlit~=0.0.6
+streamlit-aggrid==0.3.3  # 0.3.4 does not work well.
