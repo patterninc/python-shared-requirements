@@ -1,0 +1,7 @@
+
+pyarrow==10.0.1
+snowflake-sqlalchemy==1.4.6
+snowflake-connector-python==3.0.2
+SQLAlchemy~=1.4.41
+pyopenssl==23.0.0
+cryptography==39.0.1  # snowflake-connect-python does not support above 39.
