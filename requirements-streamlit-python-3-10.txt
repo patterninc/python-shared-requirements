@@ -1,6 +1,6 @@
 watchdog
 streamlit==1.24.0
-protobuf==3.20.1
+protobuf==3.20.2
 st-annotated-text==3.0.0
 streamlit-extras==0.2.7
 streamlit-option-menu==0.3.2
