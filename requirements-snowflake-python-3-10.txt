@@ -1,5 +1,5 @@
 # install specific version of oscrypto to prevent LibraryNotFoundError on AWS ECS (https://github.com/snowflakedb/snowflake-connector-python/issues/1767)
-pip install git+https://github.com/wbond/oscrypto.git@d5f3437ed24257895ae1edd9e503cfb352e635a8
+git+https://github.com/wbond/oscrypto.git@d5f3437ed24257895ae1edd9e503cfb352e635a8
 
 pyarrow==10.0.1
 snowflake-sqlalchemy==1.4.6
