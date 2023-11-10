@@ -3,7 +3,9 @@ git+https://github.com/wbond/oscrypto.git@d5f3437ed24257895ae1edd9e503cfb352e635
 
 pyarrow==10.0.1
 snowflake-sqlalchemy==1.4.6
-snowflake-connector-python==3.0.2
 SQLAlchemy~=1.4.41
+snowflake-connector-python==3.0.2
 pyopenssl==23.0.0
 cryptography==39.0.1  # snowflake-connect-python does not support above 39.
+
+python-dotenv
