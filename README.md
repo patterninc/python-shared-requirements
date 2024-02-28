@@ -1,7 +1,13 @@
 ## About
 Curated requirements files for installing Python packages across multiple repos.
 
-Change requirements once in this repo, and they will propagate to all repos that point here, on their next Docker build. 
+Managed by Philip Huebner. 
+
+> [!IMPORTANT]  
+> I never update a requirements file once it is released. 
+> I only create new files.
+> I am only taking responsibility for ensuring a file works properly at the time of release.
+> If newer versions of a package are needed, contact me to create a new shared requirements file, or point your code to a newer file, if it exists. 
 
 
 ## Usage
