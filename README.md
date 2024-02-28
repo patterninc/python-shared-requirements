@@ -1,7 +1,5 @@
 ## About
-Curated requirements files for installing Python packages across multiple repos.
-
-Managed by Philip Huebner. 
+A collection of requirements files for installing Python packages, curated by Philip Huebner.
 
 > [!IMPORTANT]  
 > I never update a requirements file once it is released. 
